@@ -19,7 +19,7 @@ body{
 .readTextApp {
     margin: 0 auto;
     text-align: center;
-    background-color: rgb(55, 44, 78);
+    /* background-color: rgb(55, 44, 78); */
     width: 50%;
     height: 400px;
     border-radius: 20px;
